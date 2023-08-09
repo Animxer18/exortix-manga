@@ -1,4 +1,4 @@
-BASE_URL = "https://mangabuddy.com"
+BASE_URL = "https://mangabuddy.com/home"
 
 var iframe_url = ""
 
