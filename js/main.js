@@ -1,4 +1,4 @@
-BASE_URL = "https://mangabuddy.com/home/"
+BASE_URL = "https://mangabuddy.com/home"
 
 
 
