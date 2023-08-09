@@ -1,4 +1,4 @@
-BASE_URL = "https://ww6.manganelo.tv/home"
+BASE_URL = "https://mangabuddy.com"
 
 
 
