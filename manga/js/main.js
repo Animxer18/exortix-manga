@@ -1,4 +1,4 @@
-BASE_URL = "https://mangabuddy.com/"
+BASE_URL = "https://ww6.manganelo.tv/"
 
 var iframe_url = ""
 
