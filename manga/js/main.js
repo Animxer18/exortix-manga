@@ -1,4 +1,4 @@
-BASE_URL = "https://mangabuddy.com"
+BASE_URL = "http://filmato.cfd"
 
 var iframe_url = ""
 
