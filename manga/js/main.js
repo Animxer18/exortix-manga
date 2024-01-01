@@ -1,4 +1,4 @@
-BASE_URL = "https://mangasee123.com"
+BASE_URL = "https://mangapill.com"
 
 var iframe_url = ""
 
