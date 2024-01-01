@@ -1,4 +1,4 @@
-BASE_URL = "https://mangasee123.com/"
+BASE_URL = "https://www.asianhdplay.org"
 
 var iframe_url = ""
 
