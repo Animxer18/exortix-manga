@@ -1,4 +1,4 @@
-BASE_URL = "https://mangapill.com"
+BASE_URL = "https://mangasee123.com"
 
 
 
