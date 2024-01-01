@@ -1,4 +1,4 @@
-BASE_URL = "https://mangasee123.com/Chapters/"
+BASE_URL = "https://mangasee123.com/Chapter/"
 
 var iframe_url = ""
 
